@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/activeadmin/activeadmin.git
-  revision: bd3380e8df3aec665981737f11f98b3582d64a24
+  revision: 6f7def4de94c1e8b8a3de8d08cbb41fe8b9a96d6
   specs:
     activeadmin (1.0.0.pre)
       arbre (~> 1.0, >= 1.0.2)
@@ -142,7 +142,6 @@ GEM
     sdoc (0.4.1)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
-    spring (1.2.0)
     sprockets (2.12.3)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -178,7 +177,6 @@ DEPENDENCIES
   mysql2
   rails (= 4.1.6)
   sdoc (~> 0.4.0)
-  spring
   sqlite3
   therubyracer
   turbolinks
