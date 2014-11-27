@@ -38,4 +38,3 @@ gem 'devise', '3.3.0'
 gem 'therubyracer',  platforms: :ruby
 gem 'activeadmin', github: 'activeadmin/activeadmin'
 gem 'mysql2'
-
